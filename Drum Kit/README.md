@@ -1,0 +1,1 @@
+This project is created using HTML, CSS and Javascript. Using Event Handlers in Javascript, we can click on different images of drums to produce different drumming sounds and hence simulate the instrument. 
